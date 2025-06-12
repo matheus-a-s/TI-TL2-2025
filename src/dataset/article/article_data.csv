@@ -1,0 +1,15 @@
+Age,Foreign Language,Salary expectation,Hiring Status
+<30,Sufficient,Little,Yes
+<30,Sufficient,More,Yes
+30-40,Sufficient,Little,Yes
+>40,Sufficient,Little,Yes
+>40,Insufficient,Little,Yes
+>40,Insufficient,More,No
+30-40,Insufficient,More,Yes
+<30,Sufficient,Little,Yes
+<30,Insufficient,Little,No
+>40,Insufficient,Little,Yes
+<30,Insufficient,More,No
+30-40,Sufficient,More,Yes
+30-40,Insufficient,Little,Yes
+>40,Sufficient,More,No
